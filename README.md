@@ -1,6 +1,8 @@
-# Blinkit Grocery Sales Analysis Dashboard
+#  Blinkit Grocery Sales Analysis | Power BI Dashboard
 
-![Blinkit Dashboard](Images/Blinkit-MainDashboard.png)
+<p align="center">
+  <img src="https://www.crafin.in/wp-content/uploads/2025/05/Blinkit-vouchers.png" alt="Blinkit" width="100%">
+</p>
 
 ## Overview
 
