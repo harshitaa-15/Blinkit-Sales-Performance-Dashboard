@@ -6,9 +6,6 @@
 
 
 
-
-
-
 ## Overview
 
 This project presents an interactive Power BI dashboard built to analyze Blinkit's grocery sales performance, product contribution, outlet characteristics, customer satisfaction, and inventory visibility.
