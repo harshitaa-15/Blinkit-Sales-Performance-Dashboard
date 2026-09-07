@@ -4,8 +4,6 @@
   <img src="https://www.crafin.in/wp-content/uploads/2025/05/Blinkit-vouchers.png" alt="Blinkit" width="100%">
 </p>
 
-
-
 ## Overview
 
 This project presents an interactive Power BI dashboard built to analyze Blinkit's grocery sales performance, product contribution, outlet characteristics, customer satisfaction, and inventory visibility.
