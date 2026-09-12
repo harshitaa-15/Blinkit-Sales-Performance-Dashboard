@@ -1,7 +1,5 @@
 <h1 align="center">Blinkit Grocery Sales Analysis</h1>
 
-helllo
-
 <p align="center">
   <img src="https://www.crafin.in/wp-content/uploads/2025/05/Blinkit-vouchers.png" alt="Blinkit" width="100%">
 </p>
