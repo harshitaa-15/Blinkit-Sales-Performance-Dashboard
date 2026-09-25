@@ -1,6 +1,5 @@
 <h1 align="center">Blinkit Grocery Sales Analysis</h1
 
-harshita 
 
 
 <p align="center">
