@@ -214,14 +214,3 @@ Blinkit-Grocery-Data-Analysis/
 │
 └── README.md
 ```
-
-
-
-
-
-
-
-### made by :  harshita gupta
-
-
-
